@@ -1,0 +1,7 @@
+setup.py
+funfact/__init__.py
+funfact.egg-info/PKG-INFO
+funfact.egg-info/SOURCES.txt
+funfact.egg-info/dependency_links.txt
+funfact.egg-info/not-zip-safe
+funfact.egg-info/top_level.txt

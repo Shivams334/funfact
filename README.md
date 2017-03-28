@@ -8,7 +8,7 @@ Installation
 ```Bash
     $ pip install funfact
 ```
-or download, uncompress and install pygrok from [here](https://pypi.python.org/pypi/funfact):
+or download, uncompress and install funfact from [here](https://pypi.python.org/pypi/funfact):
 
 ```Bash
     $ tar zxvf funfact-01.tar.gz

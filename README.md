@@ -1,5 +1,5 @@
 # Funfact
-This is my second python package for test.
+This is my second python package for testing purpose
 
 
 Installation
